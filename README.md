@@ -30,3 +30,5 @@ http://www.open3d.org/docs/release/tutorial/pipelines/global_registration.html
 
 http://www.open3d.org/docs/release/tutorial/pipelines/icp_registration.html
 
+https://github.com/NVlabs/instant-ngp
+
